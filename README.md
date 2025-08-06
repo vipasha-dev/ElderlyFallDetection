@@ -1,6 +1,4 @@
-That's a great choice. Sometimes you just need the core information without the code blocks cluttering the view. Here is the README.md content in Markdown format, ready to be copied, with all code snippets removed.
-
-Human Pose Classification using MediaPipe and XGBoost
+Human Pose Classification for Elderly Fall Detection using MediaPipe and XGBoost
 This project demonstrates a robust pipeline for human pose classification. It uses MediaPipe to detect 33 body keypoints from images, extracts this data into a CSV file, and then trains a powerful XGBoost classifier to predict different poses or actions based on the keypoint data.
 
 Features
